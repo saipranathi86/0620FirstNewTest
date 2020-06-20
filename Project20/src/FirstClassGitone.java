@@ -5,6 +5,8 @@ public class FirstClassGitone {
 		System.out.println("Test one");
 		
 		System.out.println("Confusion");
+		
+		System.out.println("Hi");
 
 	}
 
